@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7yZNVRWspaVCE/giphy.gif" width="100"/>
-</div>
+
 
 <div id="badges">
   <a href="https://www.quora.com/profile/Eric-Nickus">
     <img src="https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora&logoColor=white" alt="Quora Badge"/>
   </a>
+</div>
 </div>
