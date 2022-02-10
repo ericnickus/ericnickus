@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <div id="badges">
   <a href="https://www.quora.com/profile/Eric-Nickus">
-    <img src="https://img.shields.io/badge/Quora-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Quora Badge"/>
+    <img src="https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora&logoColor=white" alt="Quora Badge"/>
   </a>
 </div>
