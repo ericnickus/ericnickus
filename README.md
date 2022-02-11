@@ -32,6 +32,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/pPr6b7vYj1en4ywCiT/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 About Me :
 - :telescope: I’m working as a blockchain developer and contributing to frontend and backend for full stack web applications.
 
@@ -40,6 +44,13 @@ About Me :
 - :👯 I’m looking to collaborate on cool hackathon ideas or blockchain projects or startups utilizing blockchain technology.
 
 -: More recently, during the pandemic, I have been learning React JS, Typescript, and as much blockchain development and architecture as I can handle
+
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+</div>
 
 - :zap: In the past, I have worked on these platforms:
 - :AS400 (rpg/clp)
