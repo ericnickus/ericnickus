@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7yZNVRWspaVCE/giphy.gif" width="100"/>
-</div>
+
 
 <div id="badges">
   <a href="https://www.quora.com/profile/Eric-Nickus">
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=ericnickus&style=flat-square&color=blue" alt=""/>
+</div>
