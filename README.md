@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ericnickus/ericnickus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=ericnickus&style=flat-square&color=blue" alt=""/>
 </div>
+<h1>### Hi there 👋</h1>
