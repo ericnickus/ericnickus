@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=ericnickus&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>### Hi there 👋</h1>
+<h1>Hi there 👋</h1>
+<h4>My name is Eric Nickus.  I am a developer</h4>
 <div align="center">
   <img src="https://media.giphy.com/media/pPr6b7vYj1en4ywCiT/giphy.gif" width="600" height="300"/>
 </div>
