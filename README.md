@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 </div>
 
 About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a blockchain developer and contributing to frontend and backend for full stack web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am learning and working with Ethereum smart contracts and other blockchain technology.
+
+- :👯 I’m looking to collaborate on cool hackathon ideas.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
