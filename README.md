@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools :
 
 About Me :
-- :telescope: I’m working as a blockchain developer and contributing to frontend and backend for full stack web applications.
+- :telescope: I’m working on blockchain developer and web 3 and developing, maintaining, fixing problems on and contributing to frontend and backend for full stack web applications.
 
-- :seedling: I am learning and working with Ethereum smart contracts and other blockchain technology.
+- :seedling: I am working with Ethereum smart contracts and other blockchain technology such as EOSIO smart contracts.
 
 - :👯 I’m looking to collaborate on cool hackathon ideas or blockchain projects or startups utilizing blockchain technology.
 
@@ -52,7 +52,7 @@ About Me :
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-- :zap: In the past, I have worked on these platforms:
+- :zap: In the past, I have actual work experience on these platforms:
 - :AS400 (rpg/clp)
 - :C
 - :Javascript/ColdFusion(asp)
@@ -64,9 +64,9 @@ About Me :
 
 
 
-- :My strengths are: Strong Communication with upper management to end users, positive attitude -not afraid of learning new technologies  /new ways to do things, very detail oriented, down to validating source code , even css and html and optimizing javascript where possible, explaining to customers and business owners about technology.   Never depressing or lazy or bad attitude at work, I do play well with others. 
+- :My strengths are: Strong Communication with upper management to end users, positive attitude -not afraid of learning new technologies  /new ways to do things, very detail oriented, down to validating source code , even css and html and optimizing javascript where possible, explaining to customers and business owners about technology.   Never depressing or lazy or bad attitude at work, I play well with others. I'm very good at front end developement, CSS, CSS3, flex, responsive layout, cross browser testing.
 - 
-- : My weakness is: designing and photoshop although I am very good at front end developement, CSS, CSS3, flex, responsive layout, cross browser testing
+- : My weakness is: designing and photoshop
 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
