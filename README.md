@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/7yZNVRWspaVCE/giphy.gif" width="300"/>
-
+ 
 
 <div id="badges">
   <a href="https://www.quora.com/profile/Eric-Nickus">
@@ -26,7 +25,7 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=ericnickus&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>My hobby is playing guitar! 👋</h1>
+<h1>I want to be your next super reliable blockchain developer. 👋</h1>
 <h4>My name is Eric Nickus.</h4>
 <div align="center">
   <img src="https://media.giphy.com/media/pPr6b7vYj1en4ywCiT/giphy.gif" width="600" height="300"/>
