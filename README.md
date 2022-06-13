@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools :
 
 About Me :
-- :telescope: I’m working on blockchain developer and web 3 and developing, maintaining, fixing problems on and contributing to frontend and backend for full stack web applications.
-
-- :seedling: I am working with Ethereum smart contracts and other blockchain technology such as EOSIO smart contracts.
+(the past two and half years)- 
+- 🔭 I’m currently working on smart contracts from several different blockchains, trying to get a feel of which kind of smart contracts are the best from my own personal experience .  I also have learned a LOT over the past couple years;  a few new programming languages such as Typescript, React, Solidity, C++ and other blockchain stuff like running my own Bitcoin node, setting up an ethereum node, setting up a backend with Moralis or what platform to use to test Ethereum smart contracts ,Truffle, Alchemy, Hardhat, Remix, etc.  Not to mention spending time working with EOS and other blockchains besides Ethereum. 
+- :telescope: I’m working on being a professional blockchain developer and web3 and crypto developing, maintaining, fixing problems on and contributing to frontend and backend for full stack web applications.  I also still design, create from scratch and maintain and fix problems for my customers websites needs and I also handle a pretty good flow of incoming tech work such as fixing problems, wiping hard drives, data recovery, maintenance and upgrading all kinds of laptops and pcs and tablets, etc, even phones sometimes.   I even am doing a VHS tape to DVD duplication project with 170 VHS tapes ,so work is consistent but I am currently acheiving my goal of becoming a serious blockchain developer.   
 
 - :👯 I’m looking to collaborate on cool hackathon ideas or blockchain projects or startups utilizing blockchain technology.
 
--: More recently, during the pandemic, I have been learning React JS, Typescript, and as much blockchain development and architecture as I can handle
+-: More recently I entered my first hackathon (IPFS /Filecoin) where I collaborated with several other teammates on a project that went on to become one of the final winners in the hackathon.  So I am really excited about hackathons and all kinds of web3 activities.  
 
 
 <div>
