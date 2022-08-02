@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=ericnickus&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>I want to be your goto blockchain developer. 👋</h1>
+<h1>I want to be your goto blockchain developer/ full stack web developer. 👋</h1>
 <h4>My name is Eric Nickus.</h4>
 <div align="center">
   <img src="https://media.giphy.com/media/pPr6b7vYj1en4ywCiT/giphy.gif" width="600" height="300"/>
@@ -37,8 +37,9 @@ Here are some ideas to get you started:
 
 About Me :
 (the past two and half years)- 
-- 🔭 I’m currently working on smart contracts from several different blockchains, trying to get a feel of which kind of smart contracts are the best from my own personal experience .  I also have learned a LOT over the past couple years;  a few new programming languages such as Typescript, React, Solidity, C++ and other blockchain stuff like running my own Bitcoin node, setting up an ethereum node, setting up a backend with Moralis or what platform to use to test Ethereum smart contracts ,Truffle, Alchemy, Hardhat, Remix, etc.  Not to mention spending time working with EOS and other blockchains besides Ethereum. 
-- :telescope: While I’m working on being a professional blockchain developer and web3 and crypto development, I run my own web developement and everything computer related that is needed even tech work for more than a few local customers with front and back end web developmebt, consulting on projects that I have expert knowledge in such as RETS projects for Real Estate websites ,and relational database design, integrations and optimization, etc . I also still do design, create from scratch and maintain and fix problems for my smaller customers websites needs and I also handle a pretty good flow of incoming tech work such as fixing problems, wiping hard drives, data recovery, maintenance and upgrading all kinds of laptops and pcs and tablets, etc, even phones sometimes.  I even am doing a VHS tape to DVD duplication project with 170 VHS tapes ,so work is consistent but I am currently acheiving my goal of becoming a serious blockchain developer and soon I will hire someone else to do this while I focus on blockchain projects only.    
+- 🔭 Working on smart contracts (solidity and EOS).  I also have learned a LOT over the past couple years;  a few new programming languages such as Typescript, React, Solidity, C++ and other blockchain stuff like running my own Bitcoin node, setting up an ethereum node, setting up a backend with Moralis or whatever platform to use to test Ethereum smart contracts ,Truffle, Alchemy, Hardhat, Remix, etc.  Not to mention spending time working with EOS and other blockchains besides Ethereum. Continuing to learn about even more ways to make smart contracts like LUKSO, AlGORAND and others.  
+- 
+- :telescope: While I’m working on being a professional blockchain developer and web3 and crypto development, I run my own web developement and basically everything tech related that comes my way; fixing pc, ipad, laptops, etc . Also consulting on projects that I have expert knowledge in such as RETS projects for Real Estate websites ,and relational database design, integrations and optimization, etc . I also still do create from scratch websites and maintain and fix problems for my smaller customers websites needs and I also handle a pretty good flow of incoming tech work such as fixing problems, wiping hard drives, data recovery, maintenance and upgrading all kinds of laptops and pcs and tablets, etc, I even duplicate VHS to DVD on occasion.  Work is consistent but I am currently acheiving my goal of becoming a serious blockchain developer and soon I will hire someone else to do this while I focus on blockchain projects only.    
 
 - :👯 I’m looking to collaborate on cool hackathon ideas or blockchain projects or startups utilizing blockchain technology.
 
@@ -65,9 +66,10 @@ About Me :
 
 
 
-- :My strengths are: very strong communication skils with all people from upper management to end users. (Strong communication doesn't just mean talking, it also means listening). A positive attitude -not afraid of learning new technologies  /new ways to do things, very detail oriented, down to validating  css and html and optimizing javascript where possible with zero errors.  I play well with others. I also do well by myself. I have always seemed to be that guy that gets the project no one wants to do , like learning EDI on AS400 or running EDI User and ADMIN tasks on corporate systems while still maintaining a regular flow of programming projects .
+- :My strengths are: very strong communication skils with all people from upper management to end users. (Strong communication doesn't just mean talking, it also means listening). A positive attitude -not afraid of learning new technologies  /new ways to do things, very detail oriented, down to validating  css and html and optimizing javascript where possible with zero errors.  I play well with others. I also do well by myself. I have no issues with handling stuff like admin duties, fixing issues that come up, learning new things all while doing a regular schedule of programming assignments.  
 - 
 - : My weakness is: designing and photoshop
 
+- : I am more mature now (50) but still active like a young man I have no physical issues, still play sports, etc.  I started learing programming before the internet so I have a very broad scope of view point on projects, and what can and cannot be done.  Once I get acclimated to your setup, I am definitely a goto guy you can leave in there by myself or the one you call when you need extra help figuring out a problem.  
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
