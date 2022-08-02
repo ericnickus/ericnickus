@@ -72,3 +72,4 @@ About Me :
 - : I am more mature now (50) but still active like a young man I have no physical issues, still play sports, etc.  I started learing programming before the internet so I have a very broad scope of view point on projects, and what can and cannot be done.  Once I get acclimated to your setup, I am definitely a goto guy you can leave in there by myself or the one you call when you need extra help figuring out a problem.  
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- : ericnickus@gmail.com
