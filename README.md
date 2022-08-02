@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h1>I want to be your goto blockchain developer/ full stack web developer. 👋</h1>
 <h4>My name is Eric Nickus.</h4>
 <div align="center">
-  <img src="https://media.giphy.com/media/pPr6b7vYj1en4ywCiT/giphy.gif" width="600" height="300"/>
+  <img src="https://i.postimg.cc/VkC9SCyk/ericinckuslogo.png" width="600" height="300"/>
 </div>
 
 ---
