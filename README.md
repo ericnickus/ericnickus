@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://i.postimg.cc/VkC9SCyk/ericinckuslogo.png" width="600" height="300"/>
+  <img src="https://i.postimg.cc/VkC9SCyk/ericinckuslogo.png" width="800" height="400"/>
 </div>
 
 ---
