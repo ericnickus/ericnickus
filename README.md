@@ -54,21 +54,21 @@ About Me :
 - :zap: In my past history, I have actual work experience on these platforms:
 - :AS400 (rpg/cl)
 - :C
-- :Javascript/ColdFusion(asp)
+- :Javascript
 - :.net /. C#
 - :LAMP Stack(PHP/Mysql)
 - :rets developer (MLS data- real estate websites) rets data integrations, RETS data expert
-- :back end development / database integrations from mls databases to proprietary and creating and designing databases with very large amounts of data that maintain themselves every 15 minutes updating, deleting and adding new data and using my own personal photo files folder storage system which handles like a million photos not a problem.
+- :MYSQL back end development / database integrations from mls databases to proprietary and creating and designing databases with very large amounts of data that maintain themselves every 15 minutes updating, deleting and adding new data and using my own personal photo files folder storage system which handles like a million photos not a problem.
 - :custom javascript maps ; creating a drawing tool map like zillow from scratch.
 - :front end development creating from .psd many websites on smsold.com portfolio both from scratch and utilizing CMS such as Cake and Wordpress.
-- :Much experience in consulting, talking with end users and basically solving problems with web applications debugging javascript, and even getting into SEO, and all kinds of website related stuff (web2.0)
+- :Much experience in consulting, talking with end users and basically solving problems with web applications debugging javascript and my next goal is making web3 applications for a established corporation or company. 
 
 
 
 - :My strengths are: very strong communication skils with all people from upper management to end users. (Strong communication doesn't just mean talking, it also means listening). A positive attitude -not afraid of learning new technologies  /new ways to do things, very detail oriented, down to validating  css and html and optimizing javascript where possible with zero errors.  I play well with others. I also do well by myself. I have no issues with handling stuff like admin duties, fixing issues that come up, learning new things all while doing a regular schedule of programming assignments.  
 - 
 
-- : I am more mature now (50) but still active like a young man I have no physical issues, still play sports, etc.  I started learing programming before the internet so I have a very broad scope of view point on projects, and what can and cannot be done.  Once I get acclimated to your setup, I am definitely a goto guy you can leave in there by myself or the one you call when you need extra help figuring out a problem.  
+- : I am more mature now (50) but still active like a young man I have no physical issues, still play sports, etc.  I started learing programming before the internet so I have a very broad scope of view point on projects, and what can and cannot be done.  Once I get acclimated to your setup, I am definitely a goto guy you can leave in there by myself or the one you call when you need extra help figuring out a problem.  I am not a hider I will tell you everything I know with 100 percent honesty. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 - : ericnickus@gmail.com
